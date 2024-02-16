@@ -39,7 +39,7 @@ while True:
             elif opcion == '4':
                 FCRUD.eliminar_cliente()  
             elif opcion == '5':
-                FCRUD.registrar_servicios()    
+                FCRUD.Registrar_servicio()    
             elif opcion == '8':
                 break    
     elif opcion == '5':
